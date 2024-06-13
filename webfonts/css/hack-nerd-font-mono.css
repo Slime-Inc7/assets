@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+/* Regular */
+@font-face {
+  font-family: 'Hack Nerd Font Mono';
+  src: url('../fonts/Nerdfont/Hack_Regular_Nerd_Font_Complete_Mono.eot');
+  src: local(Hack_Regular_Nerd_Font_Complete_Mono), local('Hack Regular Nerd Font Complete Mono'),
+    url('../fonts/Nerdfont/Hack_Regular_Nerd_Font_Complete_Mono.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Nerdfont/Hack_Regular_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Nerdfont/Hack_Regular_Nerd_Font_Complete_Mono.woff') format('woff'),
+    url('../fonts/Nerdfont/Hack_Regular_Nerd_Font_Complete_Mono.ttf') format('truetype'),
+    url('../fonts/Nerdfont/Hack_Regular_Nerd_Font_Complete_Mono.svg#HarmonyOS_Sans_Thin')
+      format('svg');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Regular Italic */
+@font-face {
+  font-family: 'Hack Nerd Font Mono';
+  src: url('../fonts/Nerdfont/Hack_Italic_Nerd_Font_Complete_Mono.eot');
+  src: local(Hack_Italic_Nerd_Font_Complete_Mono), local('Hack Italic Nerd Font Complete Mono'),
+    url('../fonts/Nerdfont/Hack_Italic_Nerd_Font_Complete_Mono.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Nerdfont/Hack_Italic_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Nerdfont/Hack_Italic_Nerd_Font_Complete_Mono.woff') format('woff'),
+    url('../fonts/Nerdfont/Hack_Italic_Nerd_Font_Complete_Mono.ttf') format('truetype'),
+    url('../fonts/Nerdfont/Hack_Italic_Nerd_Font_Complete_Mono.svg#HarmonyOS_Sans_Thin')
+      format('svg');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Hack Nerd Font Mono';
+  src: url('../fonts/Nerdfont/Hack_Bold_Nerd_Font_Complete_Mono.eot');
+  src: local(Hack_Bold_Nerd_Font_Complete_Mono), local('Hack Bold Nerd Font Complete Mono'),
+    url('../fonts/Nerdfont/Hack_Bold_Nerd_Font_Complete_Mono.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Nerdfont/Hack_Bold_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Nerdfont/Hack_Bold_Nerd_Font_Complete_Mono.woff') format('woff'),
+    url('../fonts/Nerdfont/Hack_Bold_Nerd_Font_Complete_Mono.ttf') format('truetype'),
+    url('../fonts/Nerdfont/Hack_Bold_Nerd_Font_Complete_Mono.svg#HarmonyOS_Sans_Thin') format('svg');
+  font-stretch: normal;
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Bold Italic */
+@font-face {
+  font-family: 'Hack Nerd Font Mono';
+  src: url('../fonts/Nerdfont/Hack_Bold_Italic_Nerd_Font_Complete_Mono.eot');
+  src: local(Hack_Bold_Italic_Nerd_Font_Complete_Mono),
+    local('Hack Bold Italic Nerd Font Complete Mono'),
+    url('../fonts/Nerdfont/Hack_Bold_Italic_Nerd_Font_Complete_Mono.eot?#iefix')
+      format('embedded-opentype'),
+    url('../fonts/Nerdfont/Hack_Bold_Italic_Nerd_Font_Complete_Mono.woff2') format('woff2'),
+    url('../fonts/Nerdfont/Hack_Bold_Italic_Nerd_Font_Complete_Mono.woff') format('woff'),
+    url('../fonts/Nerdfont/Hack_Bold_Italic_Nerd_Font_Complete_Mono.ttf') format('truetype'),
+    url('../fonts/Nerdfont/Hack_Bold_Italic_Nerd_Font_Complete_Mono.svg#HarmonyOS_Sans_Thin')
+      format('svg');
+  font-stretch: normal;
+  font-style: italic;
+  font-weight: 700;
+}
